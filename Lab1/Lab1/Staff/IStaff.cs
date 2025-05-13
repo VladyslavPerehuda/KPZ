@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab1.Staff
+{
+    public interface IStaff
+    {
+        string Name { get; }
+        string Position { get; }
+        void Work();
+    }
+}
