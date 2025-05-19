@@ -5,6 +5,15 @@ class Program
 {
     static void Main(string[] args)
     {
+        {
+            var image1 = new LightImageNode("image.jpg");
+            image1.Load();  
+            Console.WriteLine(image1.OuterHTML);  
+
+            var image2 = new LightImageNode("http://example.com/image.jpg");
+            image2.Load();  
+            Console.WriteLine(image2.OuterHTML);  
+        }
         Console.OutputEncoding = Encoding.UTF8;
 
         try
@@ -45,3 +54,4 @@ class Program
         }
     }
 }
+
