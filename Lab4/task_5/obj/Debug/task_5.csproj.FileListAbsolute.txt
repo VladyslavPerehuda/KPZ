@@ -1,0 +1,7 @@
+C:\Users\kemir\source\repos\Lab_4\task_5\bin\Debug\task_5.exe.config
+C:\Users\kemir\source\repos\Lab_4\task_5\bin\Debug\task_5.exe
+C:\Users\kemir\source\repos\Lab_4\task_5\bin\Debug\task_5.pdb
+C:\Users\kemir\source\repos\Lab_4\task_5\obj\Debug\task_5.csproj.AssemblyReference.cache
+C:\Users\kemir\source\repos\Lab_4\task_5\obj\Debug\task_5.csproj.CoreCompileInputs.cache
+C:\Users\kemir\source\repos\Lab_4\task_5\obj\Debug\task_5.exe
+C:\Users\kemir\source\repos\Lab_4\task_5\obj\Debug\task_5.pdb
